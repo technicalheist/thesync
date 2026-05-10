@@ -1,0 +1,20 @@
+{
+  "name": "thesync",
+  "version": "1.0.1",
+  "description": "Real-time, two-way, peer-to-peer folder synchronization over TCP using zero dependencies.",
+  "main": "cli.js",
+  "bin": {
+    "thesync": "./cli.js"
+  },
+  "keywords": [
+    "sync",
+    "directory",
+    "folder",
+    "tcp",
+    "p2p",
+    "real-time",
+    "watch"
+  ],
+  "author": "technicalheist",
+  "license": "MIT"
+}
